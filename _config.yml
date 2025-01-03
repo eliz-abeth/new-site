@@ -1,7 +1,7 @@
 title: Blast Off
 description: A retro vending machine located in Maryland.
 remote_theme: julianolf/jekyll-theme-8bit
-logo: nes-kirby
+logo: nes-pokeball
 show_downloads: true
 plugins:
  - jekyll-paginate
