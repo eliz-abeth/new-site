@@ -1,5 +1,5 @@
-title: Jekyll 8bit
-description: A Jekyll theme inspired by classic 8bit games.
+title: Blast Off
+description: A retro vending machine located in Maryland.
 remote_theme: julianolf/jekyll-theme-8bit
 logo: nes-kirby
 show_downloads: true
@@ -17,7 +17,7 @@ social:
   twitch: https://twitch.com/username
   reddit: https://www.reddit.com/user/username
   whatsapp: tel:+5541999999999
-  gmail: mailto:username@domain.net
+  gmail: mailto:edinneny@gmail.com 
   linkedin: https://www.linkedin.com/in/username
 disqus:
   shortname: jekyll-theme-8bit
