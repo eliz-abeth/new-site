@@ -1,9 +1,6 @@
 <header>
   <div class="nes-container is-rounded blue-border header">
-    {% if site.logo %}
-      {% if site.logo contains 'nes-' %}
-      <i class="{{ site.logo }}"></i>
-      {% else %}
+
       <img src="{{site.logo | relative_url}}" alt="Logo" />
       {% endif %}
     {% endif %}
