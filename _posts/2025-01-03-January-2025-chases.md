@@ -7,20 +7,9 @@ tags: [chases, odds]
 comments: false
 ---
 
-**Hello trainers**, we are happy to share this month's chases!
+**Hello trainers**, we are excited to share this month's chases! In addition to the many ultra rare cards that you have the chance of pulling from the machine, you might also find any of the following.
 
-* * *
 
-There's a horizontal rule above this.
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-There should be whitespace between paragraphs.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+- Pikachu V
+- Zapdos EX (151)
+- Nidoking full art (151)
